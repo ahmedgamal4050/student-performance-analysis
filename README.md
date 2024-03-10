@@ -17,7 +17,7 @@
 ### EDA involved exploring student's data to answer key question sush as 
 ### What is the ratio of men and women?
 ### What is the ratio of dicount's type?
-### What is the percentage of those who completed the course and those notcompleted ?
+### What is the percentage of those who completed the course and those not completed ?
 ### what is the number of student in each group?
 ### What is the number of students who obtained the highest grades  in reading, math,writing?
 
