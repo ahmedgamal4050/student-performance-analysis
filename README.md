@@ -1,7 +1,7 @@
 # student-performance-analysis
 
  ## Project overview 
- ### this project aims to measure student performance and know information about فاثة
+ ### this project aims to measure student performance and know information about them
  ## Tools
 ### Excel -Power query to clean Data ,
  ### Power pivot to handel relations between tables,
