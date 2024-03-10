@@ -15,10 +15,17 @@
 ### 3-Data cleaning and formatting
 ## Exploratory Data Analysis
 ### EDA involved exploring student's data to answer key question sush as 
-### What is the ratio of men and women?
 ### What is the ratio of dicount's type?
 ### What is the percentage of those who completed the course and those not completed ?
-### what is the number of student in each group?
-### What is the number of students who obtained the highest grades  in reading, math,writing?
+### what is max  group have student ?
+
+## Results 
+### the analysis results are summarized  as
+###  Percentage of student receiving a standard  discount is 50%,  and Percentage of women receiving a free reduce   discount is 50%
+ ###  Percentage of student completed course is 33% ,and  Percentage of women completed course is 67% 
+ ### group c is the large group have student 
+
+
+
 
 
